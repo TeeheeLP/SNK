@@ -1,6 +1,6 @@
 body
 {
- background-color:red; 
+ background: linear-gradient(to bottom, #000000, #FFFFFF);
  font-family:arial;
 }
 
