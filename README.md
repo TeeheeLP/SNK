@@ -1,3 +1,3 @@
 SNK
 ===
-<a href="TeeheeLP.github.io/SNK">Test</a>
+<a href="http://TeeheeLP.github.io/SNK">Test</a>
