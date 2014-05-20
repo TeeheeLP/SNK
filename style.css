@@ -3,6 +3,9 @@ body
  background: #FFFFFF;
  font-family:arial;
  text-decoration:none;
+ font-size:1em;
+ padding:0px;
+ margin:0px;
 }
 
 a
@@ -19,7 +22,6 @@ img
 #header
 {
  background-color: red;
- padding:10px;
 }
 
 #link
