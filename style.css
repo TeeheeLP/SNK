@@ -47,4 +47,5 @@ img
 footer{
  Background-color:red; 
  width:100%;
+ position:relative;
 }
