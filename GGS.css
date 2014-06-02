@@ -317,7 +317,7 @@ h3 {
   
     font-size: 1em;
   }
-  header, #twoway {
+  header, footer, #twoway {
     margin: 0 27.77777777777778%;
   }
 }
@@ -340,7 +340,7 @@ h3 {
 */
 /* @media screen and (min-width: 1872px) */
 @media screen and (min-width: 117em) {
-  header, #twoway {
+  header, footer, #twoway {
     margin: 0 5.555555555555555%;
   }
   header .wrapper {
