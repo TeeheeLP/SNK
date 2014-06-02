@@ -44,10 +44,10 @@ img
  text-decoration:none;
  color:#DDDDDD;
 }
-footer{
+footer div{
  Background-color:red; 
- width:100%;
- margin-bottom:20px;
+ margin-left:25%;
+ display:inline;
 }
 #twoway{
  height:100%;
